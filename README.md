@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 A procura do meu primeiro estágio na área<br>💻 Banco de Dados: Experiência com 💻 Postgresql, MongoDB e MariaDB especializando-me em armazenamento, manipulação e análise de dados.<br>💻 Backend Development: NodeJS, para a criação de APIs.<br>💻Frontend Development: Experiencia em frameworks modernos como React e Angular e Figma para construir interfaces de usuário modernas e responsivas.<br>💻 Linguagens de Programação: Typescript e Javascript <br>📚 Atualmente aprendendo a linguagem Java<br>📫 Entre em Contato: rafael112.soliveira@gmail.com</p>
+<p align="left">🔭 A procura do meu primeiro estágio na área<br>💻 Banco de Dados: Experiência com 💻 Postgresql, MongoDB e MariaDB especializando-me em armazenamento, manipulação e análise de dados.<br>💻 Backend Development: NodeJS, para a criação de APIs.<br>💻Frontend Development: Experiencia em frameworks modernos como React e Angular e Figma para construir interfaces de usuário modernas e responsivas.<br>💻 Linguagens de Programação: Typescript e Javascript <br>📚 Atualmente estudando a linguagem Java<br>📫 Entre em Contato: rafael112.soliveira@gmail.com</p>
 
 ###
 
